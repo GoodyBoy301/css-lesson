@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #320a00;
+  color: red;
+  width: 12;
+}
+
+section {
+  background-color: green;
+  width: 700px;
+  height: 300px;
+  margin: 100px auto auto 50px;
+  border-style: double;
+  border-width: 20px;
+  border-color: orange;
+  padding: 50px 100px 0 20px;
+  color: white;
+}
